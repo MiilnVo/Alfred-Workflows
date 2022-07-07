@@ -1,8 +1,8 @@
 # Alfred工作流
 
-1、New File: 快速创建新文件
+1、New File: 在任意路径下快速创建任意格式的新文件
 
-2、Finder&iTerm: 在Finder和iTerm间切换
+2、Finder&iTerm: 在Finder和iTerm之间一键切换
 
 3、Hotkeys: 热键集合
 
